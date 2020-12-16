@@ -6,7 +6,8 @@ SHAP values are used to explain model outcomes predicting passenger survival on 
 # create an environment, install packages, register Jupyter kernel and launch notebook
 python3 -m venv xyonix_titanic && source xyonix_titanic/bin/activate
 pip install --upgrade pip setuptools wheel
-pip install ipykernel shap xgboost matplotlib seaborn
+pip install ipykernel shap xgboost matplotlib seaborn Jinja2 ipywidgets
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
 python -m ipykernel install --user --name xyonix_titanic
 jupyter notebook
 ```
