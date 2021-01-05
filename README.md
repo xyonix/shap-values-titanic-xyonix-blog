@@ -19,7 +19,7 @@ Once the Jupyter notebook navigator loads:
 
 # notebook
 
-The [Jupyter Notebook](https://github.com/xyonix/shap-values-titanic-xyonix-blog/blob/master/shap_values_titanic_xyonix_blog.ipynb) corresponds to the [UPDATE LINK AND TITLE ONCE ARTICLE IS ON SITE! Explaining a passenger survival model for the RMS Titanic](https://www.xyonix.com/blog/inside-black-box-developing-explainable-ai-models) XYONIX article. Run the cells in the notebook in order to produce the plots shown in the article, such as the SHAP force layout plots shown below.
+The [Jupyter Notebook](https://github.com/xyonix/shap-values-titanic-xyonix-blog/blob/master/shap_values_titanic_xyonix_blog.ipynb) corresponds to the XYONIX article, [Explaining a Passenger Survival AI Model Using SHAP for the RMS Titanic](https://www.xyonix.com/blog/an-example-explaining-a-passenger-survival-ai-model-using-shap-for-the-rms-titanic). Run the cells in the notebook in order to produce the plots shown in the article, such as the SHAP force layout plots shown below.
 
 ![shap value force layout plots for select passengers](https://github.com/xyonix/shap-values-titanic-xyonix-blog/blob/master/shap_titanic_force_layout.png?raw=true)
 
